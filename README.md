@@ -1,1 +1,1 @@
-Learning Vue for uni :)
+Learning Vue for uni;)
